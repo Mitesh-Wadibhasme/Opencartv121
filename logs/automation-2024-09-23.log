@@ -1,0 +1,66 @@
+13:06:39:975 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:981 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:39:981 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:982 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:39:982 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:983 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:39:984 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:985 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:39:985 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:986 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:39:986 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:39:994 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\mkwad\AppData\Local\Temp\testng-eclipse-411083452\testng-customsuite.xml
+
+13:06:40:014 [main] INFO  org.testng.internal.Utils -[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+13:06:40:180 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.jq.Main@65a4798f: 77 ms
+13:06:40:189 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.FailedReporter@5ddabb18: 8 ms
+13:06:40:196 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.XMLReporter@4275c20c: 7 ms
+13:06:40:203 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.EmailableReporter2@44e3760b: 7 ms
+13:06:40:209 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@24bdb479: 6 ms
+13:06:40:209 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@7e3f95fe: 0 ms
+13:07:47:314 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+13:07:54:186 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest ***
+13:07:54:294 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+13:07:55:001 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+13:07:55:008 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details..
+13:07:56:896 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+13:07:56:931 [main] INFO  testCases.TC001_AccountRegistrationTest -Finished TC001_AccountRegistrationTest
+16:13:34:610 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:14:03:311 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:14:49:391 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:14:58:994 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest ***
+16:14:59:126 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+16:15:01:162 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+16:15:01:165 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details..
+16:15:02:629 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+16:15:02:674 [main] INFO  testCases.TC001_AccountRegistrationTest -Finished TC001_AccountRegistrationTest
+16:17:50:643 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:17:59:132 [main] INFO  testCases.TC001_AccountRegistrationTest -***Starting TC001_AccountRegistrationTest ***
+16:17:59:245 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+16:18:01:828 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+16:18:01:831 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details..
+16:18:03:155 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+16:18:03:213 [main] INFO  testCases.TC001_AccountRegistrationTest -Finished TC001_AccountRegistrationTest
+16:22:38:645 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:27:48:226 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:30:05:214 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
+16:30:27:601 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\master.xml
+
