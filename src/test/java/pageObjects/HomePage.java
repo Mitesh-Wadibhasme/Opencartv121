@@ -23,6 +23,12 @@ public class HomePage extends BasePage{                     //we are extending t
 	@FindBy(linkText="Login")
 	WebElement linkLogin;
 	
+	@FindBy(xpath="//input[@placeholder='Search']")   //for search product
+	WebElement txtSearchBox;
+	
+	@FindBy(xpath="//i[@class='fa fa-search']")   //for search product
+	WebElement btnSearch;
+	
 	public void clickMyAccount()
 	{
 		lnkMyaccount.click();
@@ -36,5 +42,15 @@ public class HomePage extends BasePage{                     //we are extending t
 	public void clickLogin()
 	{
 		linkLogin.click();
+	}
+	
+	public void enterProductName(String pName)
+	{
+		txtSearchBox.sendKeys(pName);
+	}
+	
+	public void clickSearch()
+	{
+		btnSearch.click();
 	}
 }
