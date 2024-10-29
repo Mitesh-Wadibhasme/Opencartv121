@@ -3,10 +3,13 @@ C:\workplace\Java\Opencartv121\src\test\java\pageObjects\BasePage.java
 C:\workplace\Java\Opencartv121\src\test\java\pageObjects\HomePage.java
 C:\workplace\Java\Opencartv121\src\test\java\pageObjects\LoginPage.java
 C:\workplace\Java\Opencartv121\src\test\java\pageObjects\MyAccountPage.java
+C:\workplace\Java\Opencartv121\src\test\java\pageObjects\SearchPage.java
 C:\workplace\Java\Opencartv121\src\test\java\testBase\BaseClass.java
 C:\workplace\Java\Opencartv121\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\workplace\Java\Opencartv121\src\test\java\testCases\TC002_LoginTest.java
 C:\workplace\Java\Opencartv121\src\test\java\testCases\TC003_LoginDDT.java
+C:\workplace\Java\Opencartv121\src\test\java\testCases\TC004_SearchProductTest.java
+C:\workplace\Java\Opencartv121\src\test\java\testCases\TC005_AddToCartPageTest.java
 C:\workplace\Java\Opencartv121\src\test\java\utilities\DataProviders.java
 C:\workplace\Java\Opencartv121\src\test\java\utilities\ExcelUtility.java
 C:\workplace\Java\Opencartv121\src\test\java\utilities\ExtentReportManager.java

@@ -35,6 +35,7 @@ public WebDriver driver;
 public Logger logger;  //Log4j
 public Properties p;
 	
+	@SuppressWarnings("deprecation")
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
 	@Parameters({"os","browser"})
 	public void setup(String os, String br) throws IOException
@@ -48,7 +49,7 @@ public Properties p;
 				
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
 		{
-			DesiredCapabilities capabilities=new DesiredCapabilities();
+			DesiredCapabilities capabilities=new DesiredCapabilities();    //we have to make object for desiredcapabilities class ton set the platform and os 
 			
 			//os
 			if(os.equalsIgnoreCase("windows"))
@@ -109,12 +110,14 @@ public Properties p;
 		driver.quit();
 	}
 	
+	@SuppressWarnings("deprecation")
 	public String randomeString()
 	{
 		String generatedstring=RandomStringUtils.randomAlphabetic(5);
 		return generatedstring;
 	}
 	
+	@SuppressWarnings("deprecation")
 	public String randomeNumber()
 	{
 		String generatednumber=RandomStringUtils.randomNumeric(10);
@@ -123,7 +126,9 @@ public Properties p;
 	
 	public String randomeAlphaNumberic()
 	{
+		@SuppressWarnings("deprecation")
 		String generatedstring=RandomStringUtils.randomAlphabetic(3);
+		@SuppressWarnings("deprecation")
 		String generatednumber=RandomStringUtils.randomNumeric(3);
 		return (generatedstring+"@"+generatednumber);
 	}
@@ -140,7 +145,7 @@ public Properties p;
 		
 		sourceFile.renameTo(targetFile);
 			
-		return targetFilePath;
+		return targetFilePath;      //if you not return thr path we can not attachted to the extent report bec in extent report we have to give path name 
 
 	}
 	

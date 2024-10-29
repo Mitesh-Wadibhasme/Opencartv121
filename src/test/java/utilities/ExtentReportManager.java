@@ -31,7 +31,7 @@ public class ExtentReportManager implements ITestListener {
 
 	public void onStart(ITestContext testContext) {
 		
-		/*SimpleDateFormat df=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
+		/*SimpleDateFormat df=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");   it is a pre deffined class in java itself.
 		Date dt=new Date();
 		String currentdatetimestamp=df.format(dt);     //this particular  will return date in a string format. To gernate time stamp we are doing this step.
 
@@ -53,7 +53,7 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
 		extent.setSystemInfo("Environemnt", "QA");
 		
-		String os = testContext.getCurrentXmlTest().getParameter("os");     //when we execute this on start method it will capture the textContext and it is nothing but what which test method we executed and that test method details we store into testContext variable.
+		String os = testContext.getCurrentXmlTest().getParameter("os");     //when we execute this on start method it will capture the textContext and it is nothing but what which test method we executed and that test method details we store into testContext variable and getting parameter of os.
         extent.setSystemInfo("Operating System", os);
 		
 		String browser = testContext.getCurrentXmlTest().getParameter("browser");   //getcurrentxmltest method  will return the xml file i.e whichever xml file we run that xml file will return

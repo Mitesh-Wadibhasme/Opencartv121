@@ -1,34 +1,54 @@
-11:16:25:253 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+14:13:19:760 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
   C:\workplace\Java\Opencartv121\master.xml
 
-11:16:31:439 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Starting TC001_AccountRegistrationTest  ****
-11:16:31:516 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link.. 
-11:16:32:068 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link.. 
-11:16:32:076 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details...
-11:16:33:234 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
-11:16:33:276 [main] INFO  testCases.TC001_AccountRegistrationTest -Test passed
-11:16:33:276 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Finished TC001_AccountRegistrationTest *****
-11:16:36:179 [main] INFO  testCases.TC002_LoginTest -***Starting TC_002_LoginTest****
-11:16:37:484 [main] INFO  testCases.TC002_LoginTest -***Finished TC_002_LoginTest****
-12:40:34:535 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+16:40:20:010 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\grid-docker.xml
+
+16:41:00:706 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\grid-docker.xml
+
+16:47:29:124 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
   C:\workplace\Java\Opencartv121\master.xml
 
-12:40:41:558 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
-12:40:42:305 [main] INFO  testCases.TC004_SearchProductTest -***Ending of TC004_SearchProductTest***
-12:54:47:953 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
-  C:\workplace\Java\Opencartv121\master.xml
+16:48:02:629 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Starting TC001_AccountRegistrationTest  ****
+16:48:02:712 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link.. 
+16:48:03:122 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link.. 
+16:48:03:131 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details...
+16:48:04:139 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+16:48:04:182 [main] INFO  testCases.TC001_AccountRegistrationTest -Test passed
+16:48:04:182 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Finished TC001_AccountRegistrationTest *****
+16:48:06:620 [main] INFO  testCases.TC002_LoginTest -***Starting TC_002_LoginTest****
+16:48:07:753 [main] INFO  testCases.TC002_LoginTest -***Finished TC_002_LoginTest****
+16:48:09:986 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
+16:48:10:541 [main] INFO  testCases.TC004_SearchProductTest -***Ending of TC004_SearchProductTest***
+16:48:12:809 [main] INFO  testCases.TC005_AddToCartPageTest -***Starting TC_005_AddToCartPageTest***
+16:51:05:298 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\grid-docker.xml
 
-12:54:52:489 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
-12:59:38:644 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
-  C:\workplace\Java\Opencartv121\master.xml
+17:04:58:892 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\workplace\Java\Opencartv121\grid-docker.xml
 
-12:59:43:478 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
-13:01:01:853 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
-  C:\workplace\Java\Opencartv121\master.xml
-
-13:01:06:419 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
-13:01:07:178 [main] INFO  testCases.TC004_SearchProductTest -***Ending of TC004_SearchProductTest***
-15:46:45:590 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
-  C:\workplace\Java\Opencartv121\master.xml
-
-15:46:51:547 [main] INFO  testCases.TC005_AddToCartPageTest -***Starting TC_005_AddToCartPageTest***
+18:05:25:041 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Starting TC001_AccountRegistrationTest  ****
+18:05:25:124 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link.. 
+18:05:25:826 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link.. 
+18:05:25:830 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details...
+18:05:27:100 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+18:05:27:131 [main] INFO  testCases.TC001_AccountRegistrationTest -Test passed
+18:05:27:131 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Finished TC001_AccountRegistrationTest *****
+18:05:30:032 [main] INFO  testCases.TC002_LoginTest -***Starting TC_002_LoginTest****
+18:05:31:327 [main] INFO  testCases.TC002_LoginTest -***Finished TC_002_LoginTest****
+18:05:34:782 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
+18:05:35:386 [main] INFO  testCases.TC004_SearchProductTest -***Ending of TC004_SearchProductTest***
+18:05:38:227 [main] INFO  testCases.TC005_AddToCartPageTest -***Starting TC_005_AddToCartPageTest***
+18:23:43:429 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Starting TC001_AccountRegistrationTest  ****
+18:23:43:554 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link.. 
+18:23:44:007 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link.. 
+18:23:44:015 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details...
+18:23:46:355 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message..
+18:23:46:401 [main] INFO  testCases.TC001_AccountRegistrationTest -Test passed
+18:23:46:401 [main] INFO  testCases.TC001_AccountRegistrationTest -***** Finished TC001_AccountRegistrationTest *****
+18:23:49:522 [main] INFO  testCases.TC002_LoginTest -***Starting TC_002_LoginTest****
+18:23:51:029 [main] INFO  testCases.TC002_LoginTest -***Finished TC_002_LoginTest****
+18:23:53:805 [main] INFO  testCases.TC004_SearchProductTest -***Starting of TC004_SearchProductTest***
+18:23:54:586 [main] INFO  testCases.TC004_SearchProductTest -***Ending of TC004_SearchProductTest***
+18:23:57:475 [main] INFO  testCases.TC005_AddToCartPageTest -***Starting TC_005_AddToCartPageTest***
